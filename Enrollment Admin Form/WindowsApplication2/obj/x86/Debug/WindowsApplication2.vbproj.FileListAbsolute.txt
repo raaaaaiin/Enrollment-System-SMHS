@@ -1,0 +1,43 @@
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.LoadingBes.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Assestment.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Main.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Updatee.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.EditForm.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.UserDelete.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.USEREDIT.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.PRINTINGFORM.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.USERPRINT.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Login.resources
+C:\Users\Zerk\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Grade.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+I:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+I:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+I:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Assestment.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.EditForm.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Grade.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Login.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.LoadingBes.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Main.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.PRINTINGFORM.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Updatee.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.UserDelete.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.USEREDIT.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.USERPRINT.resources
+I:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
